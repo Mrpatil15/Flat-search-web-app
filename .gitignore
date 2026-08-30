@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Scraper output debug files
+*_res.html
+99acres_res.html
+housing_res.html
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+venv.bak/
+env.bak/
